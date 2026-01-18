@@ -1,0 +1,24 @@
+a = 34
+b = 34
+c = 87
+
+print( a != b)
+print( b != c)
+
+a = "python" 
+b = "coding"
+
+if a != b :
+ print(a, "and", b, " are different")
+
+a = 4
+b = 5
+
+if  ( a == 1) and ( b == 5):
+ print("hello")
+else: print("bye")
+
+a = int(input("enter a number"))
+
+if a%2 != 0:
+ print(a, "is not an even number")
