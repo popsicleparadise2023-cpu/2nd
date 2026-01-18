@@ -1,0 +1,17 @@
+a = 6
+# b = 65
+# c = 54
+
+# if a and b and c:
+#  print("All numbers have boolean values as true")
+# else:
+#  print("Atleast one number has a boolean value as true")
+
+#  a = 45
+#  b = -45
+#  c = 39
+
+# if a > 0 or b > 0:
+#   print("Either of the number is greater than 0")
+# else:
+#  print("Atleast one number is greater than 0")
