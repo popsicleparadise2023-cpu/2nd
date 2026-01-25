@@ -1,0 +1,5 @@
+letter = input("ENter your character")
+if letter.isalpha:
+ print("you charectar is a letter")
+else:
+ print("your charectar is not an alphabet")
